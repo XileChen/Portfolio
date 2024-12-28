@@ -45,13 +45,14 @@ Hi! I'm Xile Chen, a passionate fourth-year student at the University of Toronto
 
 ## Education
 
-### [Degree] in [Field of Study]
-- **Institution**: [University Name]
-- **Dates**: [Start Date] – [End Date]
+### [Arts and Science Bachelor's Degree Program]
+- **Institution**: [University of Toronto]
+- **Majors**: [Mathematics Specialist, Computer Science Major, Statistics Minor]
+- **Dates**: [Sep 2021] – [Present]
 
 ## Contact Me
 
 Feel free to reach out via email or GitHub if you’re interested in collaborating on a project, or if you have any questions!
 
-- **Email**: [Your Email]
-- **GitHub**: [Your GitHub URL]
+- **Email**: [xilechen0111@gmail.com]
+- **GitHub**: [https://github.com/XileChen]
