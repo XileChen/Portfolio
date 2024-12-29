@@ -28,10 +28,16 @@ Hi! I'm Xile Chen, a passionate fourth-year student at the University of Toronto
 - **Technologies Used**: [List the main technologies used in the project]
 - **GitHub Repository**: [Link to the project repository]
 
-### Project 3: [Project Name]
-- **Description**: A short description of the project, what it does, and why you built it.
-- **Technologies Used**: [List the main technologies used in the project]
-- **GitHub Repository**: [Link to the project repository]
+### Project 3: [Analysis of Airbnb Price Determinants Using Linear Regression Model]
+#### Description
+This project analyzed the key factors influencing Airbnb pricing using a linear regression model. The study investigated variables such as property type, room type, location (zipcode), and accommodation features to understand their quantitative impact on room rates. The research aimed to provide actionable insights for Airbnb hosts to optimize pricing strategies and for guests to make informed choices. The final model incorporated both numerical and categorical variables, achieving a comprehensive understanding of price determinants in Airbnb listings.
+#### Technologies Used
+- **Programming Languages**: R
+- **Statistical Methods**: Linear Regression, Residual Analysis, ANOVA
+- **Visualization Tools**: Scatter Plots, Boxplots, QQ Plots
+- **Data Sources**: Open-source Airbnb dataset from Georgia (data.world)
+#### GitHub Repository
+[Link to the project repository]
 
   
 ### Project 4: [Early Detection Of Alzheimer’s Disease: From Logistic Regression To XGBoost]
@@ -46,7 +52,7 @@ This project focused on the early detection of Alzheimer’s disease by developi
 - **Data Processing Tools:** Pandas, NumPy
 - **Visualization Tools:** Matplotlib, Seaborn
 - **Evaluation and Deployment Tools:** Kaggle leaderboard
-- **GitHub Repository**: [https://github.com/ruoshui666weakater/early_detection_of_Alzheimer-s_disease]
+#### GitHub Repository [https://github.com/ruoshui666weakater/early_detection_of_Alzheimer-s_disease]
 
 ## Experience
 
