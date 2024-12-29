@@ -35,11 +35,11 @@ Hi! I'm Xile Chen, a passionate fourth-year student at the University of Toronto
 
   
 ### Project 4: [Early Detection Of Alzheimer’s Disease: From Logistic Regression To XGBoost]
-### Description
+#### Description
 
 This project focused on the early detection of Alzheimer’s disease by developing and evaluating machine learning models, specifically Logistic Regression and XGBoost. The primary aim was to achieve high precision and accuracy in classifying individuals at risk, facilitating timely interventions and improved disease management. The project highlighted the simplicity of Logistic Regression versus the superior performance of XGBoost, which achieved 96.5% accuracy with robust handling of complex feature interactions and reduced false positives/negatives. The results were validated on a Kaggle leaderboard, demonstrating the model's reliability and effectiveness.
 
-### Technologies Used
+#### Technologies Used
 
 - **Programming Languages:** Python
 - **Machine Learning Libraries:** Scikit-learn, XGBoost
