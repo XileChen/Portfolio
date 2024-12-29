@@ -18,7 +18,25 @@ Hi! I'm Xile Chen, a passionate fourth-year student at the University of Toronto
 
 ## Projects
 
-### Project 1: [Project Name]
+### Project 1: [Raccoon's Revenge]
+#### Description
+
+This project is a game simulation similar to Rodent’s Revenge, where raccoons, smart raccoons, and trash cans interact on a grid. The goal is to implement movement logic, object interactions, and game mechanics using object-oriented programming principles. The project involves designing classes for game actors and environments, simulating interactions, and ensuring smooth event processing. It was built to strengthen Python skills in OOP, algorithmic problem-solving, and game simulation.
+
+#### Technologies Used
+
+- **Programming Language**: Python
+- **Concepts**:
+  - Object-Oriented Programming (OOP)
+  - Grid-based simulation
+  - Event handling and visualization
+- **Tools**:
+  - Unit testing with `unittest`
+  - Modular design and reusable code structures
+
+#### GitHub Repository [https://github.com/XileChen/Raccoon-s-Revenge]
+
+[Link to the project repository]
 - **Description**: A short description of the project, what it does, and why you built it.
 - **Technologies Used**: [List the main technologies used in the project]
 - **GitHub Repository**: [Link to the project repository]
