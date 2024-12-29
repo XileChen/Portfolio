@@ -28,7 +28,33 @@ Hi! I'm Xile Chen, a passionate fourth-year student at the University of Toronto
 - **Technologies Used**: [List the main technologies used in the project]
 - **GitHub Repository**: [Link to the project repository]
 
-### Project 3: [Analysis of Airbnb Price Determinants Using Linear Regression Model]
+### Project 3: [Dr. Mario]
+#### Description
+
+This project implements a simplified version of the classic Dr. Mario game using assembly language. It features a playable game environment with capsule manipulation, virus elimination, and collision detection. The game includes features such as gravity, user control via keyboard inputs, and a win condition. The objective is to eliminate all viruses in the game to achieve victory. The project highlights milestone achievements, including dynamic game mechanics, graphical rendering, and memory management.
+
+Key gameplay features include:
+- Capsule movement and rotation.
+- Collision detection and handling.
+- Virus elimination with row or column matching.
+- Gravity simulation for capsules and dynamic updates to the game state.
+- Winning condition upon virus elimination.
+
+This project was built to demonstrate advanced understanding of assembly programming, memory management, and game logic implementation.
+
+#### Technologies Used
+
+- **Programming Language**: Assembly (MIPS)
+- **Tools**: MARS (MIPS Assembler and Runtime Simulator)
+- **Game Mechanics**:
+  - Collision detection.
+  - Gravity simulation.
+  - Win condition and elimination checks.
+- **Memory Management**: Allocated memory for graphical elements and game state updates.
+
+#### GitHub Repository [https://github.com/JuliaGZL/CSC258-Assembly-Language-Project]
+
+### Project 4: [Analysis of Airbnb Price Determinants Using Linear Regression Model]
 #### Description
 This project analyzed the key factors influencing Airbnb pricing using a linear regression model. The study investigated variables such as property type, room type, location (zipcode), and accommodation features to understand their quantitative impact on room rates. The research aimed to provide actionable insights for Airbnb hosts to optimize pricing strategies and for guests to make informed choices. The final model incorporated both numerical and categorical variables, achieving a comprehensive understanding of price determinants in Airbnb listings.
 #### Technologies Used
@@ -40,7 +66,7 @@ This project analyzed the key factors influencing Airbnb pricing using a linear 
 [https://github.com/XileChen/Analysis-of-Airbnb-Price-Determinants-Using-Linear-Regression-Model]
 
   
-### Project 4: [Early Detection Of Alzheimer’s Disease: From Logistic Regression To XGBoost]
+### Project 5: [Early Detection Of Alzheimer’s Disease: From Logistic Regression To XGBoost]
 #### Description
 
 This project focused on the early detection of Alzheimer’s disease by developing and evaluating machine learning models, specifically Logistic Regression and XGBoost. The primary aim was to achieve high precision and accuracy in classifying individuals at risk, facilitating timely interventions and improved disease management. The project highlighted the simplicity of Logistic Regression versus the superior performance of XGBoost, which achieved 96.5% accuracy with robust handling of complex feature interactions and reduced false positives/negatives. The results were validated on a Kaggle leaderboard, demonstrating the model's reliability and effectiveness.
@@ -53,16 +79,6 @@ This project focused on the early detection of Alzheimer’s disease by developi
 - **Visualization Tools:** Matplotlib, Seaborn
 - **Evaluation and Deployment Tools:** Kaggle leaderboard
 #### GitHub Repository [https://github.com/ruoshui666weakater/early_detection_of_Alzheimer-s_disease]
-
-## Experience
-
-### [Job Title] at [Company Name]
-- **Dates**: [Start Date] – [End Date]
-- **Description**: A brief summary of your role and responsibilities at this job.
-
-### [Job Title] at [Company Name]
-- **Dates**: [Start Date] – [End Date]
-- **Description**: A brief summary of your role and responsibilities at this job.
 
 ## Education
 
