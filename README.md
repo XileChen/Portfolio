@@ -23,10 +23,37 @@ Hi! I'm Xile Chen, a passionate fourth-year student at the University of Toronto
 - **Technologies Used**: [List the main technologies used in the project]
 - **GitHub Repository**: [Link to the project repository]
 
-### Project 2: [Project Name]
-- **Description**: A short description of the project, what it does, and why you built it.
-- **Technologies Used**: [List the main technologies used in the project]
-- **GitHub Repository**: [Link to the project repository]
+### Project 2: [Accounting System for Individual Daily Use]
+#### Description
+
+The Accounting System is a software project designed to help users manage personal and shared finances effectively. It allows users to record financial transactions, generate informal financial reports, and organize shared accounts with multiple users. Key features include real-time updates, financial planning, cross-platform compatibility, and voice accessibility.
+
+The system is built to meet various user needs:
+- **Personal Accounts**: Users can create multiple financial accounts to record income and expenses.
+- **Shared Accounts**: Enables collaborative financial management for groups.
+- **Financial Reports**: Users can generate periodic reports with charts and audio accessibility, providing insights into income and expenditure.
+- **Budget Planning**: The system offers tools for users to plan and adjust budgets based on historical data.
+
+This project was developed as a comprehensive solution for financial management, adhering to software design principles like SOLID and incorporating accessibility for diverse users.
+
+#### Technologies Used
+
+- **Programming Language**: Java
+- **Frameworks and APIs**:
+  - Google Text-to-Speech API (for financial report audio generation)
+  - Google Drive API (for remote storage of financial data)
+- **Design Patterns**:
+  - Iterator Pattern (for modular data access)
+  - Mediator Pattern (for handling login and shared account updates)
+- **Database**:
+  - In-Memory and Persistent DAOs for data storage
+- **Testing**:
+  - High test coverage for use cases, entities, and data access layers
+- **Tools**:
+  - GitHub for version control
+  - JUnit for testing
+
+#### GitHub Repository [https://github.com/chenj926/CSC207_Accounting_System]
 
 ### Project 3: [Dr. Mario]
 #### Description
@@ -62,8 +89,7 @@ This project analyzed the key factors influencing Airbnb pricing using a linear 
 - **Statistical Methods**: Linear Regression, Residual Analysis, ANOVA
 - **Visualization Tools**: Scatter Plots, Boxplots, QQ Plots
 - **Data Sources**: Open-source Airbnb dataset from Georgia (data.world)
-#### GitHub Repository
-[https://github.com/XileChen/Analysis-of-Airbnb-Price-Determinants-Using-Linear-Regression-Model]
+#### GitHub Repository [https://github.com/XileChen/Analysis-of-Airbnb-Price-Determinants-Using-Linear-Regression-Model]
 
   
 ### Project 5: [Early Detection Of Alzheimer’s Disease: From Logistic Regression To XGBoost]
