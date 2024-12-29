@@ -37,7 +37,7 @@ This project analyzed the key factors influencing Airbnb pricing using a linear 
 - **Visualization Tools**: Scatter Plots, Boxplots, QQ Plots
 - **Data Sources**: Open-source Airbnb dataset from Georgia (data.world)
 #### GitHub Repository
-[Link to the project repository]
+[https://github.com/XileChen/Analysis-of-Airbnb-Price-Determinants-Using-Linear-Regression-Model]
 
   
 ### Project 4: [Early Detection Of Alzheimer’s Disease: From Logistic Regression To XGBoost]
